@@ -88,8 +88,15 @@ This the food delivery app like zomato. It's let users to sign up and login to t
 
 **Screenshots:**
 
-![App Name 2 Screenshot 1](assets/app2/screen1.png)
-![App Name 2 Screenshot 2](assets/app2/screen2.png)
+![Food Delivery Screenshot 1](assets/FoodDelivery/food1.jpg)
+![Food Delivery Screenshot 2](assets/FoodDelivery/food2.jpg)
+![Food Delivery Screenshot 3](assets/FoodDelivery/food3.jpg)
+![Food Delivery Screenshot 4](assets/FoodDelivery/food4.jpg)
+![Food Delivery Screenshot 5](assets/FoodDelivery/food5.jpg)
+![Food Delivery Screenshot 6](assets/FoodDelivery/food6.jpg)
+![Food Delivery Screenshot 7](assets/FoodDelivery/food7.jpg)
+![Food Delivery Screenshot 8](assets/FoodDelivery/food8.jpg)
+
 
 **Download:**
 🔗 [Download App Name 2](https://example.com/download-link)
