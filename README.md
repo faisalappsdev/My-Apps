@@ -62,23 +62,29 @@ This is an PSP Games Emulator with Downloading functionality. In this app you ca
 
 ---
 
-### <img src="assets/app1/logo.png" alt="App Name 1 Logo" width="40"/> 🚀 App Name 1
+### <img src="assets/app1/logo.png" alt="Food Delivery" width="50"/> 🚀 Food Delivery 
 
 **Purpose:**
-Describe the use case and main functionality of this app.
+This the food delivery app like zomato. It's let users to sign up and login to there account than they can start ordering food. App use firebase for authentication of login-sign up. Its maded using jetpack compose, kotlin and follows clean code architecture (data, domain, presentation) with MVVM and dependency injection. 
+
 
 **App Tech Stack:**
 
-* Language / Framework
-* Backend (if any)
-* Database / Services
-
-
+* Language / Framework: Kotlin, Jetpack Compose 
+* Backend / UI (if any): Dagger hilt, MVVM, login and sign up with email password, Custom Responsive Uis, Navigation with Compose, etc. 
+* Database / Services: Firebase integration. 
 **Key Features:**
 
-* Feature A
-* Feature B
-* Feature C
+✅ 10+ UI screens with unique features
+✅ Authentication using the email and password 
+✅ Firebase Integrated
+✅ Restaurant Listings
+✅ Food Menus & Offers
+✅ Search Functionality
+✅ Custom UI Design
+✅ Navigation with Compose
+✅ Fully responsive layouts
+✅ Modern UI Animation 
 
 **Screenshots:**
 
